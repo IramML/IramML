@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://iramml.com/](https://iramml.com/)
 
-- 📝 I regulary write articles on [https://iramml.com/blog/](https://iramml.com/blog/)
-
 - 💬 Ask me about **Android, iOS, Web**
 
 - 📫 How to reach me **me@iramml.com**
