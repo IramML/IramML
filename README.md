@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/iramml_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iramml_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iramml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iramml" height="30" width="40" /></a>
-<a href="https://instagram.com/iramml_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iramml_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
